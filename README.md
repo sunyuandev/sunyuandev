@@ -4,8 +4,9 @@
 
 ![badge](https://img.shields.io/badge/sunyuandev-Github-brightgreen.svg) ![visitors](https://komarev.com/ghpvc/?username=sunyuandev) ![followers](https://img.shields.io/github/followers/sunyuandev.svg?style=social&label=follow)
 
-- 🎁🇨🇳 Focusing on 你的技术领域（例如：Kotlin & Android）
-- 🔨 Creator of 你的创作方向（例如：applications and frameworks）
+- :gift_heart::cn: Focusing on Kotlin & Android
+
+- :hammer: Creator of applications and frameworks
 
 ![snake](./github-contribution-grid-snake.svg)
 <br><br>
