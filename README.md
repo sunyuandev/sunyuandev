@@ -1,16 +1,15 @@
-## Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=iOrchid&show_icons=true&hide_title=true&theme=buefy" />
 
-<!--
-**sunyuandev/sunyuandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi , Nice to meet you !  👋
 
-Here are some ideas to get you started:
+![jetpack](https://img.shields.io/badge/iOrchid-Github-brightgreen.svg) ![主页浏览](https://komarev.com/ghpvc/?username=iOrchid) ![Github followers](https://img.shields.io/github/followers/iOrchid.svg?style=social&label=follow)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :gift_heart::cn: Focusing on Kotlin & Android
+
+- :hammer: Creator of applications and frameworks
+
+![Github Contribution Grid Snack](https://raw.githubusercontent.com/iOrchid/iOrchid/main/assets/github-contribution-grid-snake.svg)
+<br><br>
+<!-- -->
+
+![developer](./assets/developer_programing.svg)
