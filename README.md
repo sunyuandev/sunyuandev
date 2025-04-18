@@ -1,58 +1,119 @@
-# Hi there 👋 I'm Yuan Sun
-
-🇨🇳 Android & Kotlin Enthusiast | 📱 Application Architect | 🛠️ Framework Craftsman
-
-[![GitHub followers](https://img.shields.io/github/followers/sunyuandev?label=Follow%20%40sunyuandev&style=social)](https://github.com/sunyuandev)
-[![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://developer.android.com)
-[![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org)
-
-## 🛠️ Technical Arsenal
-
-​**Languages & Frameworks**​  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
-
-​**Dev Tools**​  
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
-
-## 🚀 Featured Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunyuandev&repo=github-profile-config)](https://github.com/sunyuandev/github-profile-config)
-<!-- 添加更多项目卡片 -->
-
-## 📈 Coding Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sunyuandev&theme=dark)](https://git.io/streak-stats)
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](你的LinkedIn链接)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](你的Twitter链接)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:你的邮箱)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there+👋+I'm+Yuan+Sun;Android+Architect+•+Framework+Developer+•+Open+Source+Enthusiast" alt="Typing SVG Header">
+</div>
 
 ---
 
-# 你好 👋 我是孙源
+### 🧰 Tech Stack Radar
 
-🇨🇳 Android 开发者 | 📱 应用架构师 | 🛠️ 框架工匠
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=android" width="60" alt="Android"><br>
+      <strong>Android</strong><br>
+      <sub>6+ years</sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=kotlin" width="60" alt="Kotlin"><br>
+      <strong>Kotlin</strong><br>
+      <sub>Expert</sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=jetpack" width="60" alt="Jetpack"><br>
+      <strong>Jetpack</strong><br>
+      <sub>Compose • Room</sub>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=gradle" width="60" alt="Gradle"><br>
+      <strong>Gradle</strong><br>
+      <sub>Plugin Master</sub>
+    </td>
+  </tr>
+</table>
 
-## 🎯 技术聚焦
+---
 
-专注于构建高性能的 Android 应用程序和可重用的开发框架。擅长：
-- 多模块项目架构设计
-- 性能优化与内存管理
-- 高质量的代码规范
+### 📊 Development Analytics
 
-## 🤝 合作与支持
+<!-- Dynamic Stats Grid -->
+<div align="center">
+  <a href="https://github.com/sunyuandev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunyuandev&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&custom_title=Development+Metrics"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunyuandev&layout=compact&theme=vision-friendly-dark&langs_count=8&exclude_repo=github-profile-config"/>
+  </a>
+</div>
 
-欢迎交流移动开发技术！如果你：
-- 有有趣的合作想法
-- 需要技术咨询
-- 想参与我的开源项目
+---
 
-请通过邮箱或社交媒体联系我！
+### 🏆 Open Source Showcase
 
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sunyuandev.profile)](https://github.com/sunyuandev)
+<!-- Project Cards with Custom Layout -->
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📦 Framework Core</h3>
+      <a href="https://github.com/sunyuandev/awesome-framework">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sunyuandev&repo=awesome-framework&theme=react"/>
+      </a>
+      <p>High-performance Android framework with modular architecture</p>
+      <img src="https://img.shields.io/github/stars/sunyuandev/awesome-framework?style=flat-square">
+      <img src="https://img.shields.io/github/last-commit/sunyuandev/awesome-framework?style=flat-square">
+    </td>
+    <td width="50%">
+      <h3>🚀 Utility Toolkit</h3>
+      <a href="https://github.com/sunyuandev/dev-toolkit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sunyuandev&repo=dev-toolkit&theme=react"/>
+      </a>
+      <p>Collection of Android development utilities and extensions</p>
+      <img src="https://img.shields.io/github/forks/sunyuandev/dev-toolkit?style=flat-square">
+      <img src="https://img.shields.io/github/issues/sunyuandev/dev-toolkit?style=flat-square">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌐 Social Hub
+
+<div align="left">
+  <!-- LinkedIn -->
+  <a href="[你的LinkedIn链接]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+  
+  <!-- Medium Blog -->
+  <a href="[你的技术博客链接]" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Technical_Blog-black?logo=medium" alt="Medium">
+  </a>
+  
+  <!-- Stack Overflow -->
+  <a href="[你的StackOverflow链接]" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-Q&A_Expert-orange?logo=stackoverflow" alt="StackOverflow">
+  </a>
+</div>
+
+---
+
+### 📅 Development Rhythm
+
+<!-- GitHub Activity Graph -->
+[![Sun's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sunyuandev&theme=github-compact)](https://github.com/sunyuandev)
+
+---
+
+### 🎯 Specialization Focus
+
+```kotlin
+object YuanSun {
+    const val expertise = "Android Architecture"
+    val specialties = listOf(
+        "Modularization",
+        "Performance Optimization",
+        "CI/CD Pipelines",
+        "Cross-Platform Solutions"
+    )
+    
+    fun createInnovation() {
+        println("Building next-gen mobile experiences")
+    }
+}
