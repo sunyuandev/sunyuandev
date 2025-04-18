@@ -12,4 +12,4 @@
 <br><br>
 <!-- -->
 
-![developer](./assets/developer_programing.svg)
+![developer](https://github.com/sunyuandev/sunyuandev/blob/main/developer_programing.svg)
