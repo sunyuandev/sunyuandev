@@ -7,7 +7,7 @@
 - 🎁🇨🇳 Focusing on 你的技术领域（例如：Kotlin & Android）
 - 🔨 Creator of 你的创作方向（例如：applications and frameworks）
 
-![snake](https://raw.githubusercontent.com/你的用户名/你的仓库名/main/assets/github-contribution-grid-snake.svg)
+![snake](./github-contribution-grid-snake.svg)
 <br><br>
 <!-- 保留注释 -->
 
