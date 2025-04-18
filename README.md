@@ -8,7 +8,7 @@
 
 - :hammer: Creator of applications and frameworks
 
-![Github Contribution Grid Snack](https://raw.githubusercontent.com/iOrchid/iOrchid/main/assets/github-contribution-grid-snake.svg)
+![Github Contribution Grid Snack](https://github.com/sunyuandev/sunyuandev/blob/main/github-contribution-grid-snake.gif)
 <br><br>
 <!-- -->
 
